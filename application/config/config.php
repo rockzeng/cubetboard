@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://sites/cubetboard/install/index.php';
+$config['base_url']	= 'http://sites/cubetboard/';
 
 /*
 |--------------------------------------------------------------------------
